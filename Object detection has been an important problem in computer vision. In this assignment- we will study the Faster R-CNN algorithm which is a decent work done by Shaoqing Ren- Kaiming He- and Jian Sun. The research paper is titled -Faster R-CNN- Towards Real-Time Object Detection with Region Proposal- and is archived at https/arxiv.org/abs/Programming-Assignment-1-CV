@@ -1,0 +1,5 @@
+# Programming-Assignment-1-CV
+Object detection has been an important problem in computer vision. In this assignment, we will
+study the Faster R-CNN algorithm which is a decent work done by Shaoqing Ren, Kaiming He,
+and Jian Sun. The research paper is titled “Faster R-CNN: Towards Real-Time Object Detection
+with Region Proposal”, and is archived at https://arxiv.org/abs/1506.01497.
